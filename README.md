@@ -118,6 +118,28 @@ shop-smart-decision-tree/
 ├── README.md
 └── requirements.txt
 ```
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+
+```
+git clone https://github.com/lakshaybamel/shop-smart-decision-tree.git
+cd shop-smart-decision-tree
+```
+
+2. Install required dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+3. Run the Jupyter Notebook:
+
+```
+jupyter notebook shop_smart_project.ipynb
+```
 
 ---
 
